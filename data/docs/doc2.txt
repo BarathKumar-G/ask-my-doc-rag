@@ -1,0 +1,11 @@
+Vector databases are specialized systems designed to store and search high-dimensional vectors efficiently.
+
+These vectors are typically generated from machine learning models, such as embeddings produced by transformer-based architectures.
+
+Unlike traditional databases that rely on exact matches, vector databases enable similarity-based search.
+
+This allows users to find data that is semantically related rather than identical.
+
+Vector databases are used in applications like recommendation systems, semantic search, and image retrieval.
+
+Tools like Chroma, Pinecone, and Weaviate provide efficient indexing and querying mechanisms.
